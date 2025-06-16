@@ -2,6 +2,8 @@
 
 编译方式：xelatex -> bibtex -> xelatex -> xelatex
 
+免费使用，不用致谢
+
 by Huizhang Yang
 
 email: hzyang@njust.edu.cn
